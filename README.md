@@ -50,7 +50,4 @@ Provide your wallet connection</p>
 <p>
 <b>Advanced Options:</b> You can add the features here according to the needs of your project. The fee you will pay will be the same.</p>
 
-<b>Advanced Options:</b> You can add the features here according to the needs of your project. The fee you will pay will be the same.</p>
-
-
  <b>Final Steps:</b> Review all your information and if you are ready, follow the instructions by pressing the “Create Token” button. Your token creation will be completed in about 30 seconds and you will be able to configure your project's customizations on the next page.
